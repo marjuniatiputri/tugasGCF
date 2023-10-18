@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Tabel</title>
+</head>
+<link rel="stylesheet" href="https://openlayers.org/en/v4.6.5/css/ol.css" type="text/css">
+<link rel="stylesheet" href="style.css">
+<body>
+    <style>
+        .niaopenlayer{
+          padding: 10px;
+          margin: 10px;
+          border: 1px solid black;
+          border: transparent;
+          width: 200px;
+          background-color: rgb(126, 185, 236);
+          color: white;
+          border-radius: 30px;
+          text-align: center;
+        }
+        .niaopenlayer:hover{
+            padding: 10px;
+            margin: 10px;
+            border: 1px solid black;
+            border: transparent;
+            width: 200px;
+            background-color: rgb(255, 138, 20);
+            color: white;
+            border-radius: 30px;
+            text-align: center;
+            box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+        }
+        .niaopenlayer a{
+          color: white;
+          text-decoration: none;
+        }
+      </style>
+      
+      <div class="niaopenlayer">
+        <a href="../index.html">Marjuniati Tugas - Google Cloud JSON</a>
+      </div>
+
+    <h1>Open Layers GIS</h1>
+    <h2>Nama    : Marjuniati Putri</h2>
+    <h2>Npm     : 1214001</h2>
+    <h2>Kelas   : D4 TI 3A</h2>
+</body>
+<body>
+
+    <div id="map" class="map"></div>
+    <div id="info-table">
+
+    <div class="point-table">
+
+    <table id="pointTable" border="1">
+        <thead>
+            <tr>  
+                <th>Nama</th>
+                <th>Koordinat</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<div class="polygon-table">
+    <h1>Data Polygon</h1>
+    <table id="polygonTable" border="1">
+        <thead>
+            <tr>
+                <th>Nama</th>
+                <th>Koordinat</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<div class="polyline-table">
+    <h1>Data Polyline</h1>
+    <table id="polylineTable" border="1">
+        <thead>
+            <tr>
+                <th>Nama</th>
+                <th>Koordinat</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+    <script src="https://openlayers.org/en/v4.6.5/build/ol.js"></script>
+    <script type="module" src="./script.js"></script>
+</body>
+</html>

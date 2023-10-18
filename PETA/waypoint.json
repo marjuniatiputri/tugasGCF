@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMA Negeri 7 Denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.2252141107931,
+          -8.651475195827004
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMP Negeri 3 Denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22588567414346,
+          -8.652263079536894
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saraswati School & University"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22519476466812,
+          -8.652775364157606
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMA Negeri 1 Denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22565537098427,
+          -8.653695577375345
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umah VG"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22389260832568,
+          -8.654191583835768
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Kreneng & Asoka"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22493541259257,
+          -8.655798509860148
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pendidikan 45"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22604326100225,
+          -8.652716549347417
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Pertiwi Dewata"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22442046281668,
+          -8.653446538570279
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SD Negeri 28 Dangin Puri"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22420982833228,
+          -8.65294997375804
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Pendidikan Kamboja"
+      },
+      "geometry": {
+        "coordinates": [
+          115.2246389726264,
+          -8.653121222786467
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMP Negeri 3 Denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.2254942362481,
+          -8.652074167993504
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Denpasar I Clinic"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22428896235647,
+          -8.652384036126819
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B&M Photo"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22406579453144,
+          -8.652235267314325
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pura Swagina tamansari"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22384890401781,
+          -8.65198429994588
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balai laboratorium kesehatan Prov. Bali"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22350734988208,
+          -8.652402265508513
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamar dagang & Industri Bali & Kab. Badung"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22378111649272,
+          -8.653070328944153
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dinas Pendidikan"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22398519302811,
+          -8.653547467688455
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inspektorat Kota Denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22418215406492,
+          -8.653808800818169
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMAN 1 Denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22515367189942,
+          -8.65393534590116
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dwijendra schools"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22588171187567,
+          -8.654392646217076
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kantor pertahanan Denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22626785462512,
+          -8.654853922495562
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "olshop"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22702757699676,
+          -8.655748986401761
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kemoning cell"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22643220871413,
+          -8.65613452105488
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kantor Pos"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22570143272941,
+          -8.656209402122116
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank Mega "
+      },
+      "geometry": {
+        "coordinates": [
+          115.2256892210192,
+          -8.656254674402788
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "plaza pos kamboja "
+      },
+      "geometry": {
+        "coordinates": [
+          115.22574494617271,
+          -8.656268917513415
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kayika "
+      },
+      "geometry": {
+        "coordinates": [
+          115.2256817594793,
+          -8.656305630535599
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skolah tinngi ilmu sosial & Politik wirabhakti"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22348213586895,
+          -8.656050049493672
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank Pembangunan daerah bali"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22564405320793,
+          -8.65506818307847
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "perusahaan daerah denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22570926185307,
+          -8.655509527389853
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badan Narkotika Nasional daerah"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22577014127927,
+          -8.655801294415824
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kantor desa sumerta kauh"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22525913187013,
+          -8.656310583035392
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kereneng Market"
+      },
+      "geometry": {
+        "coordinates": [
+          115.2249392363965,
+          -8.655532257801212
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank Bukopin"
+      },
+      "geometry": {
+        "coordinates": [
+          115.2251075158025,
+          -8.654820721559929
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank BRI "
+      },
+      "geometry": {
+        "coordinates": [
+          115.22494330378015,
+          -8.654498089155908
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lapangan tenis "
+      },
+      "geometry": {
+        "coordinates": [
+          115.22585537634944,
+          -8.653592164470297
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapangan Basket"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22543815134713,
+          -8.653822162187382
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outdoor climbing precint"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22292454446341,
+          -8.651262366039859
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RRI Auditorium"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22217516045976,
+          -8.651940741116306
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "politeknik polda bali "
+      },
+      "geometry": {
+        "coordinates": [
+          115.2246665065527,
+          -8.650980568768574
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SD Negeri 17 dangin puri"
+      },
+      "geometry": {
+        "coordinates": [
+          115.222282649524,
+          -8.654975220161305
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PT Dewata Indah "
+      },
+      "geometry": {
+        "coordinates": [
+          115.22323547644783,
+          -8.656473434438595
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Teknologi wirabhakti "
+      },
+      "geometry": {
+        "coordinates": [
+          115.22310709095257,
+          -8.655937140808362
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TK Kartika VII/13"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22286151275841,
+          -8.655810313802263
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koramil 1611/01"
+      },
+      "geometry": {
+        "coordinates": [
+          115.222601442143,
+          -8.655783632719817
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Terminal kreneng"
+      },
+      "geometry": {
+        "coordinates": [
+          115.2242830685637,
+          -8.655981410245133
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koperasi Bahteramas"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22276850082847,
+          -8.654798736327237
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DPRD Kota Denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22214131889285,
+          -8.655435193051702
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badan Narkotika Nasional Denpasar"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22217253802523,
+          -8.654742966271286
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badan pemberdayaan perermpuan & Anak Prov. Bali"
+      },
+      "geometry": {
+        "coordinates": [
+          115.22231079418674,
+          -8.654381420566665
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    }
+  ]
+}
